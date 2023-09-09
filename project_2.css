@@ -1,3 +1,30 @@
 body {
-    background-color: rgb(100, 142, 200);
+background-color: rgb(100, 142, 200);
+}
+
+h1{
+width:200px;
+margin-left:700px;
+}
+.standartblock{
+display: flex;
+justify-content: center;
+gap:20px;
+margin-bottom:50px;
+}
+
+.lorem___1{
+position: absolute;
+width:200px;
+left:80px;
+top:80px;
+font-size:22px;
+}
+
+.lorem___2{
+position: absolute;
+width:200px;
+right:80px;
+top:80px;
+font-size:22px;
 }
